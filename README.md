@@ -1,5 +1,5 @@
 # prev-venda-carros
-Utilizar Machine Learning para fazer a previsão de que um carro será ou não vendido a partir do inputs de algumas variáveis.
+Utilizar Machine Learning para fazer a previsão se um carro será ou não vendido a partir do inputs de algumas variáveis.
 
 COMPRACAR é uma empresa que foi criada em 1990 no Estado do Rio de Janeiro no qual o seu serviço é a compra de carros usados, manutenção e revenda dos mesmos.
 
